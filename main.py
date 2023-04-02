@@ -4,6 +4,8 @@
 # Example:
 # This URL 'http://api.open-notify.org/iss-now.json' is endpoint of ISS (International Space Station).
 
+# NOT COMPLETED YET*********************************************************************************************************************************************
+
 import requests  # use to interact with APIs.
 
 # My locations longitude and latitude.
